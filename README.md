@@ -9,4 +9,4 @@ Here are some of my favorite dog breeds. :)
 # [**ROTTWEILER**](https://vetstreet.brightspotcdn.com/dims4/default/016b763/2147483647/crop/0x0%2B0%2B0/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2Fde%2F7def60a7fb11e0a0d50050568d634f%2Ffile%2FRottweiler-5-645mk062811.jpg)
 **That's all :)**
 
-P.S. all images from google.
+P.S. all images from google
